@@ -2,7 +2,7 @@
 - 👀 I’m interested in functional programming, data analysis and intelligence and infurmation security
 - 🌱 I’m currently learning information security stuff
 - 💞️ I’m looking to collaborate on projects related to my interests
-- 📫 How to reach me me@vladraevsky.com
+- 📫 How to reach me vladraevsky.com
 
 <!---
 quave/quave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
